@@ -13,6 +13,7 @@ body {
   background-position: center;
   margin: 0;
   height: 100vh;
+  width: full;
 }
 
 canvas {
@@ -45,4 +46,5 @@ canvas {
   font-size: 18px;
   color: #ffffff;
   font-family: roboto;
+  padding: 0 2em 0 2em;
 }
