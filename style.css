@@ -6,7 +6,7 @@ body {
       rgba(0, 10, 100, 0.6),
       rgba(0, 110, 100, 0.2)
     ),
-    url("./images/hial_campus_aab.jpg");
+    url("./images/bg_diwali.png");
   background-blend-mode: multiply;
   background-size: cover;
   background-repeat: no-repeat;
@@ -47,4 +47,5 @@ canvas {
   color: #ffffff;
   font-family: roboto;
   padding: 0 2em 0 2em;
+  text-align: justify;
 }
